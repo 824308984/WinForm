@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\D\\Project\\SQLForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE639D0-2ABA-4EF6-ADCE-746DA3414567}|SQLForm\\SQLForm.csproj|f:\\d\\project\\sqlform\\sqlform\\detailtxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE639D0-2ABA-4EF6-ADCE-746DA3414567}|SQLForm\\SQLForm.csproj|solutionrelative:sqlform\\detailtxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE639D0-2ABA-4EF6-ADCE-746DA3414567}|SQLForm\\SQLForm.csproj|f:\\d\\project\\sqlform\\sqlform\\base\\pdmhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE639D0-2ABA-4EF6-ADCE-746DA3414567}|SQLForm\\SQLForm.csproj|solutionrelative:sqlform\\base\\pdmhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE639D0-2ABA-4EF6-ADCE-746DA3414567}|SQLForm\\SQLForm.csproj|F:\\D\\Project\\SQLForm\\sqlform\\detailtxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAE639D0-2ABA-4EF6-ADCE-746DA3414567}|SQLForm\\SQLForm.csproj|solutionrelative:sqlform\\detailtxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE639D0-2ABA-4EF6-ADCE-746DA3414567}|SQLForm\\SQLForm.csproj|f:\\d\\project\\sqlform\\sqlform\\base\\utilbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE639D0-2ABA-4EF6-ADCE-746DA3414567}|SQLForm\\SQLForm.csproj|solutionrelative:sqlform\\base\\utilbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE639D0-2ABA-4EF6-ADCE-746DA3414567}|SQLForm\\SQLForm.csproj|f:\\d\\project\\sqlform\\sqlform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE639D0-2ABA-4EF6-ADCE-746DA3414567}|SQLForm\\SQLForm.csproj|solutionrelative:sqlform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PDMHelper.cs",
+              "DocumentMoniker": "F:\\D\\Project\\SQLForm\\SQLForm\\Base\\PDMHelper.cs",
+              "RelativeDocumentMoniker": "SQLForm\\Base\\PDMHelper.cs",
+              "ToolTip": "F:\\D\\Project\\SQLForm\\SQLForm\\Base\\PDMHelper.cs",
+              "RelativeToolTip": "SQLForm\\Base\\PDMHelper.cs",
+              "ViewState": "AQIAAN8CAAAAAAAAAADgv/wCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:27:32.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UtilBase.cs",
+              "DocumentMoniker": "F:\\D\\Project\\SQLForm\\SQLForm\\Base\\UtilBase.cs",
+              "RelativeDocumentMoniker": "SQLForm\\Base\\UtilBase.cs",
+              "ToolTip": "F:\\D\\Project\\SQLForm\\SQLForm\\Base\\UtilBase.cs",
+              "RelativeToolTip": "SQLForm\\Base\\UtilBase.cs",
+              "ViewState": "AQIAAP4BAAAAAAAAAAAswDQCAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:24:20.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailTxt.cs",
+              "DocumentMoniker": "F:\\D\\Project\\SQLForm\\SQLForm\\DetailTxt.cs",
+              "RelativeDocumentMoniker": "SQLForm\\DetailTxt.cs",
+              "ToolTip": "F:\\D\\Project\\SQLForm\\SQLForm\\DetailTxt.cs",
+              "RelativeToolTip": "SQLForm\\DetailTxt.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwv6MAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:23:44.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailTxt.cs [Design]",
+              "DocumentMoniker": "F:\\D\\Project\\SQLForm\\SQLForm\\DetailTxt.cs",
+              "RelativeDocumentMoniker": "SQLForm\\DetailTxt.cs",
+              "ToolTip": "F:\\D\\Project\\SQLForm\\SQLForm\\DetailTxt.cs [Design]",
+              "RelativeToolTip": "SQLForm\\DetailTxt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:17:09.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\D\\Project\\SQLForm\\SQLForm\\Form1.cs",
+              "RelativeDocumentMoniker": "SQLForm\\Form1.cs",
+              "ToolTip": "F:\\D\\Project\\SQLForm\\SQLForm\\Form1.cs",
+              "RelativeToolTip": "SQLForm\\Form1.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAABOwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:16:37.52Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
